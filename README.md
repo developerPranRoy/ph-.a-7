@@ -26,6 +26,7 @@ A beautiful and intuitive web application to help you maintain meaningful relati
 - **LocalStorage** (Data Persistence)
 
 ## 🚀 Live Demo
+(https://ph-a-7-fpug8hxqw-developerpranroys-projects.vercel.app/)
 
 
 

@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "name": "Alex Rivera",
+        "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+        "email": "alex.rivera@gmail.com",
+        "days_since_contact": 3,
+        "status": "on-track",
+        "tags": [
+            "college",
+            "close friend"
+        ],
+        "bio": "Met during freshman year. We used to play football together every weekend.",
+        "goal": 14,
+        "next_due_date": "2026-04-25"
+    },
+    {
+        "id": 2,
+        "name": "Priya Sharma",
+        "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
+        "email": "priya.sharma@outlook.com",
+        "days_since_contact": 18,
+        "status": "almost due",
+        "tags": [
+            "work",
+            "mentor"
+        ],
+        "bio": "My first manager at TechNova. Always gives the best career advice.",
+        "goal": 30,
+        "next_due_date": "2026-04-20"
+    },
+    {
+        "id": 3,
+        "name": "Rahim Khan",
+        "picture": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400",
+        "email": "rahim.khan@yahoo.com",
+        "days_since_contact": 45,
+        "status": "overdue",
+        "tags": [
+            "school",
+            "childhood"
+        ],
+        "bio": "Best friend since class 5. We still argue about who is better at cricket.",
+        "goal": 21,
+        "next_due_date": "2026-03-01"
+    },
+    {
+        "id": 4,
+        "name": "Sara Chen",
+        "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400",
+        "email": "sara.chen@gmail.com",
+        "days_since_contact": 7,
+        "status": "on-track",
+        "tags": [
+            "university"
+        ],
+        "bio": "Lab partner in biochemistry. We survived all-nighters together.",
+        "goal": 14,
+        "next_due_date": "2026-04-22"
+    },
+    {
+        "id": 5,
+        "name": "James Okoro",
+        "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+        "email": "james.okoro@hotmail.com",
+        "days_since_contact": 12,
+        "status": "almost due",
+        "tags": [
+            "gym",
+            "friend"
+        ],
+        "bio": "Workout buddy. We motivate each other to never skip leg day.",
+        "goal": 10,
+        "next_due_date": "2026-04-18"
+    },
+    {
+        "id": 6,
+        "name": "Nadia Hassan",
+        "picture": "https://images.unsplash.com/photo-1580489944761-09be1ec59862?w=400",
+        "email": "nadia.hassan@proton.me",
+        "days_since_contact": 62,
+        "status": "overdue",
+        "tags": [
+            "neighbor",
+            "family friend"
+        ],
+        "bio": "Our families have been close for 20 years. She makes the best biryani.",
+        "goal": 30,
+        "next_due_date": "2026-02-10"
+    }
+]
